@@ -1,0 +1,11 @@
+C:\Users\engin\Desktop\Proje\otopark sistemi\otopark sistemi\bin\Debug\otopark sistemi.exe
+C:\Users\engin\Desktop\Proje\otopark sistemi\otopark sistemi\bin\Debug\otopark sistemi.pdb
+C:\Users\engin\Desktop\Proje\otopark sistemi\otopark sistemi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\engin\Desktop\Proje\otopark sistemi\otopark sistemi\obj\Debug\otopark_sistemi.Form1.resources
+C:\Users\engin\Desktop\Proje\otopark sistemi\otopark sistemi\obj\Debug\otopark_sistemi.Properties.Resources.resources
+C:\Users\engin\Desktop\Proje\otopark sistemi\otopark sistemi\obj\Debug\otopark sistemi.csproj.GenerateResource.Cache
+C:\Users\engin\Desktop\Proje\otopark sistemi\otopark sistemi\obj\Debug\otopark sistemi.exe
+C:\Users\engin\Desktop\Proje\otopark sistemi\otopark sistemi\obj\Debug\otopark sistemi.pdb
+C:\Users\engin\Desktop\Proje\otopark sistemi\otopark sistemi\obj\Debug\otopark_sistemi.arackayitformu.resources
+C:\Users\engin\Desktop\UÜ EEM\Proje Hazırlık ve Müh. Tas I\otopark sistemi\otopark sistemi\obj\Debug\otopark sistemi.exe
+C:\Users\engin\Desktop\UÜ EEM\Proje Hazırlık ve Müh. Tas I\otopark sistemi\otopark sistemi\obj\Debug\otopark sistemi.pdb
